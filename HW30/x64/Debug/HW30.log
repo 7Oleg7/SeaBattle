@@ -1,0 +1,5 @@
+﻿  HW30.cpp
+D:\oleg\1Visual Studio Projects\C++ DZ\HW30\HW30.cpp(94,14): warning C4101: cinX: неиспользованная локальная переменная
+D:\oleg\1Visual Studio Projects\C++ DZ\HW30\HW30.cpp(982,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\oleg\1Visual Studio Projects\C++ DZ\HW30\HW30.cpp(1019,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  HW30.vcxproj -> D:\oleg\1Visual Studio Projects\C++ DZ\HW30\x64\Debug\HW30.exe
